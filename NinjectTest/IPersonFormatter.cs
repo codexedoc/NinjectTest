@@ -4,7 +4,7 @@
     {
 
 
-        stringgggg FormatPerson(int age, string firstname, string lastname);
+        string FormatPerson(int age, string firstname, string lastname);
 
 
     }
